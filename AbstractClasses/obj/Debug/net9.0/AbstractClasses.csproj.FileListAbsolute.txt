@@ -1,0 +1,15 @@
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\AbstractClasses\bin\Debug\net9.0\AbstractClasses.exe
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\AbstractClasses\bin\Debug\net9.0\AbstractClasses.deps.json
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\AbstractClasses\bin\Debug\net9.0\AbstractClasses.runtimeconfig.json
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\AbstractClasses\bin\Debug\net9.0\AbstractClasses.dll
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\AbstractClasses\bin\Debug\net9.0\AbstractClasses.pdb
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\AbstractClasses\obj\Debug\net9.0\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\AbstractClasses\obj\Debug\net9.0\AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\AbstractClasses\obj\Debug\net9.0\AbstractClasses.AssemblyInfo.cs
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\AbstractClasses\obj\Debug\net9.0\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\AbstractClasses\obj\Debug\net9.0\AbstractClasses.sourcelink.json
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\AbstractClasses\obj\Debug\net9.0\AbstractClasses.dll
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\AbstractClasses\obj\Debug\net9.0\refint\AbstractClasses.dll
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\AbstractClasses\obj\Debug\net9.0\AbstractClasses.pdb
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\AbstractClasses\obj\Debug\net9.0\AbstractClasses.genruntimeconfig.cache
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\AbstractClasses\obj\Debug\net9.0\ref\AbstractClasses.dll
