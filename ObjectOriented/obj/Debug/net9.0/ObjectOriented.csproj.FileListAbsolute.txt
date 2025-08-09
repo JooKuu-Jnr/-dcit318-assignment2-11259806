@@ -1,0 +1,14 @@
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\ObjectOriented\bin\Debug\net9.0\ObjectOriented.exe
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\ObjectOriented\bin\Debug\net9.0\ObjectOriented.deps.json
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\ObjectOriented\bin\Debug\net9.0\ObjectOriented.runtimeconfig.json
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\ObjectOriented\bin\Debug\net9.0\ObjectOriented.dll
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\ObjectOriented\bin\Debug\net9.0\ObjectOriented.pdb
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\ObjectOriented\obj\Debug\net9.0\ObjectOriented.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\ObjectOriented\obj\Debug\net9.0\ObjectOriented.AssemblyInfoInputs.cache
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\ObjectOriented\obj\Debug\net9.0\ObjectOriented.AssemblyInfo.cs
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\ObjectOriented\obj\Debug\net9.0\ObjectOriented.csproj.CoreCompileInputs.cache
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\ObjectOriented\obj\Debug\net9.0\ObjectOriented.dll
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\ObjectOriented\obj\Debug\net9.0\refint\ObjectOriented.dll
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\ObjectOriented\obj\Debug\net9.0\ObjectOriented.pdb
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\ObjectOriented\obj\Debug\net9.0\ObjectOriented.genruntimeconfig.cache
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\-dcit318-assignment2-11259806\ObjectOriented\obj\Debug\net9.0\ref\ObjectOriented.dll
